@@ -8,6 +8,23 @@ ERA is developed as a **global public good** that aims to strengthen democratic 
 
 ---
 
+# Main Platform
+
+The ERA platform can be accessed through the following applications:
+
+* 🌐 **Main Portal**
+  [https://era.idea.int](https://era.idea.int)
+
+* 🗺 **Online Redistricting Application**
+  [https://era.idea.int/online-app/](https://era.idea.int/online-app/)
+
+* 📘 **ERA E-Brochure**
+  [https://era.idea.int/e-brochure/](https://era.idea.int/e-brochure/)
+
+These applications provide access to ERA’s tools for **visualizing, analyzing, and designing electoral districts**.
+
+---
+
 # Mission
 
 ERA aims to make electoral boundary analysis **accessible, transparent, and participatory** by providing tools that allow users to:
@@ -22,10 +39,10 @@ ERA aims to make electoral boundary analysis **accessible, transparent, and part
 
 # Key Objectives
 
-This software application tool is provided as a global public good that would:
+This software application tool is provided as a **global public good** that would:
 
-* **Enable anyone with an interest to better understand how electoral boundaries are drawn** in their respective countries.
-* **Allow users to create their own boundary delimitation scenarios**, drawing or redrawing electoral districts based on recognized standards and principles.
+* Enable anyone with an interest to **better understand how electoral boundaries are drawn** in their respective countries.
+* Allow users to **create their own boundary delimitation scenarios**, drawing or redrawing electoral districts based on recognized standards and principles.
 * Promote **transparency and accountability** in electoral boundary processes.
 * Encourage **public participation and evidence-based discussion** in redistricting decisions.
 
@@ -49,7 +66,7 @@ Features include:
 
 Technology:
 
-* JavaScript-based frontend application
+* JavaScript frontend application
 
 ---
 
@@ -99,7 +116,7 @@ Purpose:
 
 Technology:
 
-* Static JavaScript-based website
+* Static JavaScript website
 
 ---
 
@@ -128,11 +145,22 @@ These principles help ensure that electoral boundaries are drawn in ways that pr
 
 ---
 
-# Project Status
+# Partner Organizations
 
-ERA is currently under **active development**.
+ERA is developed through collaboration between organizations working on **democracy, elections, and geospatial technology**.
 
-The repositories within this organization are **private** and accessible only to project collaborators and authorized partners.
+Key contributors include:
+
+* **International IDEA**
+  [https://www.idea.int](https://www.idea.int)
+
+* **Perludem (Perkumpulan untuk Pemilu dan Demokrasi)**
+  [https://perludem.org](https://perludem.org)
+
+* **QGIS Indonesia Community**
+  [https://qgis-id.github.io/](https://qgis-id.github.io/)
+
+These organizations contribute expertise in **electoral systems, democratic governance, and geospatial technology**.
 
 ---
 
@@ -149,16 +177,18 @@ ERA is designed to support a wide range of users, including:
 
 ---
 
-# Contributing
+# Project Status
 
-At this stage, development is limited to the core project team and selected collaborators.
+ERA is currently under **active development**.
 
-Future opportunities for collaboration, research partnerships, and contributions may be announced as the project evolves.
+Repositories within this organization are **private and accessible only to project collaborators and authorized partners**.
 
 ---
 
 # Contact
 
-For inquiries regarding ERA, collaboration opportunities, or project information, please contact the project team through the appropriate channels.
+For inquiries regarding ERA, collaboration opportunities, or project information, please visit:
+
+[https://www.idea.int/contact](https://www.idea.int/contact)
 
 ---
