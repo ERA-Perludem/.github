@@ -20,6 +20,9 @@ The ERA platform can be accessed through the following applications:
 
 * 📘 **ERA E-Brochure**
   [https://era.idea.int/e-brochure/](https://era.idea.int/e-brochure/)
+  
+* 📘 **ERA E-Recap**
+  [https://era.idea.int/e-recap/](https://era.idea.int/e-recap/)
 
 These applications provide access to ERA’s tools for **visualizing, analyzing, and designing electoral districts**.
 
@@ -111,6 +114,22 @@ Public-facing website presenting the ERA platform.
 Purpose:
 
 * Introduce the project
+* Provide public information and documentation
+* Communicate the platform's purpose and impact
+
+Technology:
+
+* Static JavaScript website
+
+---
+
+### `era-recap`
+
+Public-facing website presenting the ERA recapitulations platform.
+
+Purpose:
+
+* Introduce the recapitulation
 * Provide public information and documentation
 * Communicate the platform's purpose and impact
 
